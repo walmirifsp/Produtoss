@@ -1,0 +1,24 @@
+C:\Users\josim\Desktop\Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\josim\Desktop\Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\josim\Desktop\Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\josim\Desktop\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\josim\Desktop\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\josim\Desktop\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\5ª. Estrutura de Dados\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\5ª. Estrutura de Dados\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\5ª. Estrutura de Dados\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Projeto Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Projeto Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Projeto Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Projeto Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Projeto Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019\Projeto Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019 - Produtos\Projeto Lista de Produtos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019 - Produtos\Projeto Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 04 - 14-03-2019 - Produtos\Projeto Lista de Produtos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
